@@ -1,2 +1,1 @@
-.public cloud
-.
+.public cloud-
