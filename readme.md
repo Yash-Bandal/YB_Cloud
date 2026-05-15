@@ -1,2 +1,2 @@
 .public cloud-yb
-.
+.-
